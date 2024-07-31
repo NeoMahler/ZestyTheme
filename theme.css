@@ -2213,7 +2213,6 @@ fieldset {
 }
 
 /* Quitamos imagen de poster */
-/*
 .layout-mobile .detailImageContainer .card,
 .layout-mobile .detailImageContainer .card.backdropCard,
 .layout-mobile .detailImageContainer .card.portraitCard,
@@ -2225,7 +2224,6 @@ fieldset {
 .layout-mobile .detailImageContainer .card.portraitCard {
   display: none !important;
 }
-*/
 
 /* Mostrando Logo y posicionandolo */
 .layout-mobile .detailLogo {
