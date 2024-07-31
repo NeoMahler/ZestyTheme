@@ -2502,10 +2502,11 @@ margin-bottom: -5px;
 	display: none;
 }
 
+/*
 .detailImageContainer .card .cardBox {
 	margin: 0;
 	display: none;
-}
+}*/
 
 .layout-mobile .mainDrawer {
 	width: 315px !important;
